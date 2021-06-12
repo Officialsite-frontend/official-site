@@ -28,7 +28,7 @@
       <!-- Header-logo End -->
 
       <!-- Header-version Start -->
-      <div class="header-version">v2.0.2</div>
+      <div class="header-version">v2.0.3</div>
       <!-- Header-version End -->
 
       <div class style="display: flex; position: relative">

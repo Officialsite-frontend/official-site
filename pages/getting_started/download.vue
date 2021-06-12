@@ -26,7 +26,7 @@
                 >
                 <button
                   class="button normal outset-neomo"
-                  onclick="location.href='https://github.com/neomorphism/neomo/archive/refs/tags/v2.0.2.zip'"
+                  onclick="location.href='https://github.com/neomorphism/neomo/archive/refs/tags/v2.0.3.zip'"
                 >
                   <strong class="text-strong">Download</strong>
                 </button>
